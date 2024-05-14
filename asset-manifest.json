@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Worth_Tome/static/css/main.82f59035.css",
+    "main.js": "/Worth_Tome/static/js/main.7a066508.js",
+    "static/js/453.283e0ad1.chunk.js": "/Worth_Tome/static/js/453.283e0ad1.chunk.js",
+    "static/media/pic2.jpg": "/Worth_Tome/static/media/pic2.fa93b00a82af07ae192a.jpg",
+    "static/media/Book-selling.jpg": "/Worth_Tome/static/media/Book-selling.eb89c5e725efbf6e998a.jpg",
+    "static/media/Science-education.jpg": "/Worth_Tome/static/media/Science-education.6a8afb2cbecd93233496.jpg",
+    "static/media/onlineTest.png": "/Worth_Tome/static/media/onlineTest.6049788e353288ab0af3.png",
+    "index.html": "/Worth_Tome/index.html",
+    "main.82f59035.css.map": "/Worth_Tome/static/css/main.82f59035.css.map",
+    "main.7a066508.js.map": "/Worth_Tome/static/js/main.7a066508.js.map",
+    "453.283e0ad1.chunk.js.map": "/Worth_Tome/static/js/453.283e0ad1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82f59035.css",
+    "static/js/main.7a066508.js"
+  ]
+}
