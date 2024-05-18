@@ -73,9 +73,9 @@ export default function BookStore() {
                     mb: 4,
                     py: 2,
                 }}>
-                    <Box sx={{width: {xs: '100%', md: '35%'}}}><img className="introImg" width="100%" height="100%" src={image} alt=""/></Box>
-                    <Box sx={{width: {xs: '100%', md: '65%'}}}>
-                        <Typography variant='h6' sx={{pt: {xs: 1, md: 15}, px: {xs: 1, md: 3}, textAlign: 'center', fontWeight: 530}}>All types of resources, such as Modules, HandBooks, Lecture Notes, Question Papers, Solutions, etc. available</Typography>
+                    <Box sx={{width: {xs: '100%', md: '35%'}}}><img className="introImg" width="100%" height="80%" src={image} alt=""/></Box>
+                    <Box sx={{width: {xs: '100%', md: '65%'}, my: 'auto'}}>
+                        <Typography variant='h6' sx={{px: {xs: 1, md: 3}, textAlign: 'center', fontWeight: 530}}>All types of resources, such as Modules, HandBooks, Lecture Notes, Question Papers, Solutions, etc. available</Typography>
                     </Box>
                 </Box>
 
